@@ -1,0 +1,32 @@
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-tite {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  color: #2e2f42;
+}
+
+.team-list {
+  list-style-type: none;
+}
+
+.team-list-item {
+  background-color: #fff;
+}
+
+.team-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  text-align: center;
+  color: #2e2f42;
+  text-align: center;
+}
+
+.team-text {
+  text-align: center;
+}

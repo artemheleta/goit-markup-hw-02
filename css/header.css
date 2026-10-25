@@ -1,0 +1,47 @@
+.header {
+}
+
+.header-logo {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.33;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2e2f42;
+  text-decoration: none;
+}
+
+.header-nav {
+  list-style-type: none;
+}
+
+.header-nav-item {
+  font-weight: 500;
+  color: #2e2f42;
+  text-decoration: none;
+}
+
+.header-nav-item:hover,
+.header-nav-item:focus {
+  color: #404bbf;
+}
+
+.header-nav-item:active {
+  text-decoration: underline;
+}
+
+.header-address {
+  list-style-type: none;
+}
+
+.header-address-item {
+  color: #434455;
+  text-decoration: none;
+  font-style: normal;
+}
+
+.header-address-item:hover,
+.header-address-item:focus {
+  color: #404bbf;
+}
