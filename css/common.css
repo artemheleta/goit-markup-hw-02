@@ -11,3 +11,7 @@ body {
 .accent {
   color: #4d5ae5;
 }
+
+ul {
+  list-style: none;
+}
